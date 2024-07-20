@@ -1,0 +1,22 @@
+{
+  "cart": [
+    {
+      "id": "2",
+      "product_name": "ساعت هوشمند سامسونگ مدل Galaxy Watch 6 40mm",
+      "price": 9500000,
+      "img": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fx2b0rmji0dscill3mordif0ey3xolrgrf5kue30ku3ijskydbm%255blarge%255d.jpg",
+      "brand": "samsung",
+      "category": "ساعت هوشمند",
+      "numberOf": 4
+    },
+    {
+      "id": "3",
+      "product_name": "مچ بند هوشمند شیائومی مدل MI BAND 7",
+      "price": 2100000,
+      "img": "https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fxmgm3lidwy5pytxsry6fjnn20yefpit8rq4q2wrva573kjz1yx%255blarge%255d.jpg",
+      "brand": "xiaomi",
+      "category": "ساعت هوشمند",
+      "numberOf": 2
+    }
+  ]
+}

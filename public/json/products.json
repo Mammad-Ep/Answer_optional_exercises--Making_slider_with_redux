@@ -1,0 +1,84 @@
+{
+    "products":[
+        {
+            "id":1,
+            "product_name":"ساعت هوشمند سامسونگ مدل Galaxy Watch 6 Classic 43mm",
+            "price":13300000,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f07026vxdfmtvmawifz00osamfdmybu27avq0fq7o1g8z5t1h35%255blarge%255d.jpg",
+            "brand":"samsung",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":2,
+            "product_name":"ساعت هوشمند سامسونگ مدل Galaxy Watch 6 40mm",
+            "price":9500000,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fx2b0rmji0dscill3mordif0ey3xolrgrf5kue30ku3ijskydbm%255blarge%255d.jpg",
+            "brand":"samsung",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":3,
+            "product_name":"مچ بند هوشمند شیائومی مدل MI BAND 7",
+            "price":2100000 ,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fxmgm3lidwy5pytxsry6fjnn20yefpit8rq4q2wrva573kjz1yx%255blarge%255d.jpg",
+            "brand":"xiaomi",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":4,
+            "product_name":"مچ بند هوشمند شیائومی مدل Mi Band 8",
+            "price":1900000,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252flc4eksyntji8rm1myorec5ae8ke64j67342fb3bca8yo6cmp7g%255blarge%255d.png",
+            "brand":"xiaomi",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":5,
+            "product_name":"ساعت هوشمند شیائومی مدل Mibro T1",
+            "price":5600000,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f7m7ymfvz4qgivzv7sdk6aflq5ojmmnfsn54eunkkg223zcy84m%255blarge%255d.jpg",
+            "brand":"xiaomi",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":6,
+            "product_name":"ساعت هوشمند شیائومی مدل Mibro X1 XPAW005",
+            "price":3200000,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fspp5y0ypnu2kc32eq7uh6jnynecsjnsx6sc1vdbhz8i8mf714s%255blarge%255d.jpg",
+            "brand":"xiaomi",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":7,
+            "product_name":"ساعت هوشمند امیزفیت مدل Neo",
+            "price":1300000,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fnwk5wsfzxeuh3vioj4f07vhwy64stnltlmfsjxj0cyzyko42v4%255blarge%255d.jpg",
+            "brand":"xiaomi",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":8,
+            "product_name":"ساعت هوشمند اپل سری 9 بند Midnight Aluminium Case with Midnight Sport Band",
+            "price":21900000,
+            "img":"https://meghdadit.com/files/gallery/oneefvv4ynizl16lsglemebwitwe8t0at686psxb7n61fxms0j[large].jpg",
+            "brand":"apple",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":9,
+            "product_name":"ساعت مچی هوشمند اپل واچ 3 38 میلیمتر با بند سفید",
+            "price":10900000,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252f43aepw8ns254dxh6c5iij15g7inv8n7yu5suona28muooe60rx%255blarge%255d.jpg",
+            "brand":"apple",
+            "category":"ساعت هوشمند"
+        },
+        {
+            "id":10,
+            "product_name":"ساعت هوشمند امیزفیت مدل T-Rex",
+            "price":13000000,
+            "img":"https://meghdadit.com/_image.ashx?i=%252ffiles%252fproduct%252fw8yeh8kambt331rf6typ0j02jtd8gcb1ndyi6ed13blv0rdc5k%255blarge%255d.jpg",
+            "brand":"amazfit",
+            "category":"ساعت هوشمند"
+        }
+    ]
+}

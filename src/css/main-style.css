@@ -1,0 +1,14 @@
+
+.main-title{
+
+    position: relative;
+    right: calc(50% - 214px);
+    color: red;
+    background-color: yellow;
+    padding: 13px 10px;
+    border-radius: 7px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+    opacity: 0.3;
+}

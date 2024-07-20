@@ -1,25 +1,39 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import "./css/main-style.css";
+import { Provider } from 'react-redux';
+import Navbar from './components/Navbar';
+import Home from './components/Home';
+import Cart from './components/Cart';
+import store from './apps/store';
+import Error404 from './components/Error404';
+import AboutUs from './components/AboutUs';
+// ___________________________________________________________
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <>
+      <header>
+        <div>
+          <h2 className='main-title'>پاسخ سوالات تمرینات اختیاری - استادی فرانت اند2</h2>
+        </div>
+        <Navbar />
       </header>
-    </div>
+      <main role='main'>
+
+      </main>
+      <footer>
+
+      </footer>
+
+      <Routes>
+        <Route path='/' element={<Provider store={store}><Home /></Provider>}></Route>
+        <Route path='/cart/' element={<Provider store={store}><Cart /></Provider>}></Route>
+        <Route path='/error404/' element={<Error404 />}></Route>
+        <Route path='/*' element={<Navigate to={'/error404/'} />}></Route>
+        <Route path='/about-us/' element={<AboutUs />}></Route>
+      </Routes>
+    </>
   );
 }
 

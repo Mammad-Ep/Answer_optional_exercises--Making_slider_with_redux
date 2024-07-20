@@ -1,0 +1,24 @@
+{
+    "sliders": [
+        {
+            "id": 1,
+            "src": "images/slider/s1.jpg"
+        },
+        {
+            "id": 2,
+            "src": "images/slider/s2.png"
+        },
+        {
+            "id": 3,
+            "src": "images/slider/s3.jpg"
+        },
+        {
+            "id": 4,
+            "src": "images/slider/s4.jpg"
+        },
+        {
+            "id": 5,
+            "src": "images/slider/s5.png"
+        }
+    ]
+}
